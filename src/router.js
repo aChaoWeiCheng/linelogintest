@@ -17,6 +17,11 @@ export default new Router({
       path: '/receive',
       name: 'receive',
       component: () => import('./views/Receive.vue')
+    },
+    {
+      path: '/test',
+      name: 'test',
+      component: () => import('./views/test.vue')
     }
   ]
 })
