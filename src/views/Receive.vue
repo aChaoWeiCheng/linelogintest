@@ -9,7 +9,7 @@
     <h1>IdToken Decode</h1>
     <h3>解析後的值: {{ idTokenDecode }}</h3>
     <hr>
-    <router-link to="/">回登入頁</router-link>
+    <router-link to="https://www.cros.tw/lp/development/LINE_Login_Demo_wilson/">回登入頁</router-link>
   </div>
 </template>
 
